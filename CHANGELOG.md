@@ -15,6 +15,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add demo data
 - Add 'plain' example
 - Add 'all configuration' example
+- Add some sequences for colourations - unify arbitrary inputs with plotly 
+- Add some way of doing metadata for each file/dict
+- Add some default way of handing files dragged and dropped
+- Add a 'new' flag that allows only most recent n files to be plotted.
+- Add an interactive file picker?
+
 
 ## [0.1.0] - 2021-12-20
 ### Added
