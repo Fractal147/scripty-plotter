@@ -1,0 +1,7 @@
+__pycache__/
+*.code-workspace
+data_in/
+data_out/
+venv/
+env/
+*.egg-info
